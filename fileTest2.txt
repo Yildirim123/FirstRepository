@@ -5,4 +5,4 @@ This is the second file I created
 This is my second tutorial in Git
 
 
-Work hard to get things better
+changed by master
