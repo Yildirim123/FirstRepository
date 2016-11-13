@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-
-
-
 arabibranchOne updated from branchOne
->>>>>>> branchOne
