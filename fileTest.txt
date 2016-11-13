@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-
-
-
 arabibranchOne updated from branchOne
->>>>>>> branchOne
+This change made in master
