@@ -1,2 +1,6 @@
-abMaster updatetd from master
+<<<<<<< HEAD
 
+
+
+arabibranchOne updated from branchOne
+>>>>>>> branchOne
